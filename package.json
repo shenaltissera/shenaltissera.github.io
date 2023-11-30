@@ -77,7 +77,7 @@
     "node": ">=18.0.0"
   },
   "bugs": {
-    "url": "https://github.com/HamishMW/portfolio/issues"
+    
   },
   "main": "next.config.js",
   "license": "ISC"
